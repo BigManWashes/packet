@@ -3,9 +3,6 @@
     "name": "Customer_Packet",
     "builds": [{
         "src": "package.json",
-        "use": "@now/static-build",
-        "config": {
-            "distDir": "build"
-        }
+        "use": "@now/static-build"
     }]
 }
