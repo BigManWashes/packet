@@ -7,7 +7,26 @@
     "repository": null,
     "native": false,
     "codeSandbox": true,
-    "themeConfig": {}
+    "themeConfig": {},
+    "dest": "/dist"
   },
-  "entries": {}
+  "entries": {
+    "mdx/home.mdx": {
+      "name": "Hello world",
+      "route": "/",
+      "id": "02b217733c93d5c26b53c5f67f2efc07",
+      "filepath": "mdx/home.mdx",
+      "link": null,
+      "slug": "mdx-home",
+      "order": 0,
+      "menu": null,
+      "headings": [
+        {
+          "depth": 1,
+          "slug": "hello-world",
+          "value": "Hello world!"
+        }
+      ]
+    }
+  }
 }
