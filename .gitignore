@@ -77,3 +77,4 @@ typings/
 
 # Docz Build folder
 .docz/
+.docz/app/db.json
