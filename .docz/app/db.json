@@ -23,6 +23,23 @@
       "headings": [
         {
           "depth": 1,
+          "slug": "control-systemss",
+          "value": "Control Systemss!"
+        }
+      ]
+    },
+    "mdx/Controls/controls.mdx": {
+      "name": "Hello world",
+      "route": "/controls/",
+      "id": "2906535f57a85f77ae841161089ac226",
+      "filepath": "mdx/Controls/controls.mdx",
+      "link": null,
+      "slug": "mdx-controls-controls",
+      "order": 0,
+      "menu": null,
+      "headings": [
+        {
+          "depth": 1,
           "slug": "hello-world",
           "value": "Hello world!"
         }
